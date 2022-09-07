@@ -11,3 +11,11 @@
 ## 技术栈
 
 nestjs+typeOrm
+
+
+
+## nest快速创建页面
+* nest g [文件类型] [文件名] [文件目录]
+  * 创建模块 `nest g mo posts`
+  * 创建控制器 `nest g co posts`
+  * 创建Service `nest g service posts`
